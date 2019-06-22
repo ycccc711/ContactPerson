@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact Person</string>
+    <string name="contactPersonName">Peter</string>
+    <string name="mobile">Mobile</string>
+    <string name="mobileNum">98765432</string>
+    <string name="work">Work</string>
+    <string name="workNum">83671212</string>
+
+</resources>
